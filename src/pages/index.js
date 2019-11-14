@@ -15,6 +15,8 @@ const IndexPage = () => (
       <Image />
     </div>
     <Link to="/wordpress/sample-page">Go to Sample Page</Link> <br />
+    <Link to="/page-2/">Go to Page 2</Link> <br />
+    <Link to="/aboutus/">Go to Page 2</Link> <br />
     <Link to="/wordpress/2019/09/30/hello-world/">Go to Hello World Post</Link>
    
   </Layout>
